@@ -1,4 +1,4 @@
-![Banner de cris](miau.png)
+![Banner de cris](image.png)
 
 > **_“Imaginar y construir lo que el mundo aún no conoce.”_** 
 – No es solo una frase, es mi filosofía de vida.
@@ -6,7 +6,8 @@
  🟣 Me apasiona la **innovación, lo diferente y lo especial.** Ya sea analizando datos para descubrir historias ocultas, diseñando experiencias digitales centradas en el usuario, o liderando equipos hacia una visión común, siempre actúo con entusiasmo, creatividad y un liderazgo transformacional que deja huella.
 
 ### 🌑 Si crees en construir lo extraordinario, ya tenemos algo en común. 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NjcnE0bnp5eXhjNXo1OWRiczdtaG5vOGp1cDQ3a2V0N3VrM2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i3uCv2KzMNVl4q35rI/giphy.gif" width="">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NjcnE0bnp5eXhjNXo1OWRiczdtaG5vOGp1cDQ3a2V0N3VrM2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i3uCv2KzMNVl4q35rI/giphy.gif" width="2322">
 
 
 <p align="center">
