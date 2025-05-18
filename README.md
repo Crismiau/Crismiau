@@ -8,7 +8,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NjcnE0bnp5eXhjNXo1OWRiczdtaG5vOGp1cDQ3a2V0N3VrM2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i3uCv2KzMNVl4q35rI/giphy.gif" width="2322">
 
-
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Crismiau&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Crismiau&theme=midnight-purple&hide_border=false)<br/>
