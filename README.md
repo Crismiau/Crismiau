@@ -1,4 +1,4 @@
-![Banner de cris](image.png)
+![Banner de cris](imagecopy.png)
 
 > **_“Imaginar y construir lo que el mundo aún no conoce.”_** 
 – No es solo una frase, es mi filosofía de vida.
