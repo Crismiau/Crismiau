@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NjcnE0bnp5eXhjNXo1OWRiczdtaG5vOGp1cDQ3a2V0N3VrM2JnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i3uCv2KzMNVl4q35rI/giphy.gif" width="2322">
-
 
 ![Banner de cris](image%20copy.png)
 > **_“Imaginar y construir lo que el mundo aún no conoce.”_** 
